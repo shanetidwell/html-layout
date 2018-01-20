@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    padding:15px;
+    
+}
+.header {
+    border: 3px solid black;
+    height: 20vh;
+    width: auto;
+    padding: 15px;
+    position: relative;
+}
+.middle-block {
+    height: 20vh;
+    width: auto;
+    margin-top: 15px;
+    border: 3px dotted black;
+    padding: 30px;
+
+}
+.content {
+    width: auto;
+    height: 100%;
+    background-color: yellow;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.greeting {
+    height: 13vh;
+    text-align: center;
+    padding: 70px 200px;
+    margin: 30px;
+    width: auto;
+    box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.75);
+    border: 1px solid rgb(235, 229, 229);
+    font-size: 1.5rem;
+}
+.purple-box {
+    height: 80%;
+    width: 35px;
+    margin-top: 20px;
+    background-color: purple;
+    display: inline-block;
+}
+.green-box {
+    width: 45%;
+    height: 100%;
+    display: inline-block;
+    background-color: forestgreen;
+    margin: 0 15px 0 15px
+
+}
+.blue-circle {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-color: lightblue;
+    display: inline-block;
+
+}

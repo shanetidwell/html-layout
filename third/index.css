@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding:0;
+}
+.row {
+    width: 100%;
+    height: 100px;
+}
+.header {
+    background-color: #e2e0e0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.menu {
+    height: 75px;
+    width: 75px;
+    background-color: rgb(46, 117, 223);
+}
+.large-row {
+    height: 200px;
+    width: 100%;
+    padding: 40px;
+    background-color: whitesmoke;
+    box-sizing: border-box;
+}
+.row1{
+    background-color: rgb(46, 117, 223);
+}
+.row2{
+    background-color: rgb(40, 207, 207);
+}
+.row3 {
+    background-color: rgb(196, 230, 124)
+}
+.row4 {
+    background-color: rgb(221, 221, 38)
+}
